@@ -61,7 +61,7 @@ headter-tagline: We Sale
 
 # Focus Buttons
 header-focus-button:
-  title: Shop Now
+  title: Shop
   url: #about
 
 # Secondary Buttons
@@ -72,7 +72,7 @@ header-secondary-button:
 #
 # This is your email adress, contact from send here all emails from contact section
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
-# To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
+# To configure this contact form, first please send a fictive email after you enter below your email and verify that :)
 #
 email: support@nxtactical.com
 
@@ -135,8 +135,8 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: Welcome to Sera
-about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+about-title: Welcome to NX Tactical
+about-description: NX Tactical is a veteran owned local and online gun shop. Specializing in sales of firearms, accessories, tactical gear, and training. Currently working by appointment only but feel free to browse our site or contact us with any of your questions and we'll be happy to help!"
 
 
 #####################################
@@ -446,13 +446,13 @@ plan-ultimate-url: '#'
 ############   Contact   ############
 #####################################
 contact-title: Contact Us
-contact-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+contact-description: We are Currently working by appointment only as we work through COVID-19 and work to grow our business. Pleae fill out our contact form and well get back with you within 24 hours.
 
 
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+footer-description: NX Tactical
 footer-copyright-text: Gleesik&trade;
-footer-copyright-url: http://gleesik.ro/
-footer-copyright-year: 2016
+footer-copyright-url: http://www.nxtactical.com
+footer-copyright-year: 2020
