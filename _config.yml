@@ -66,7 +66,8 @@ email: support@nxtactical.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-banner-link: https://nxtactical.com/index.html#about
+banner-link: https://nxtactical.setmore.com/
+setmore-link: https://nxtactical.setmore.com/
 
 ####################################
 ######  Global Social Links   ######
@@ -222,8 +223,8 @@ portfolio:
 #####################################
 ##########  Core Features  ##########
 #####################################
-core-title: Core Features
-core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis aliquet diam ut eleifend.
+core-title: What We Offer
+core-description: NX Tactical is here to help you with any of your firearms and tactical needs!
 
 #
 # Core Features Left
@@ -231,24 +232,24 @@ core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet 
 core-features-left:
 
 # Feature
-- name: Creative
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-light
+- name: FFL tranfers
+  description: Need a controlled item? Send it our way.
+  icon:
 
 # Feature
-- name: Minimalism
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-drop
+- name: New and Used Firearms
+  description: Come check out our inventory or call and request, well do out best!
+  icon:
 
 # Feature
-- name: Clean Coding
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-coffee
+- name: Tactical gear
+  description: Plate carriers or new pocket knife, give us a call!
+  icon:
 
 # Feature
-- name: Friendly
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-smile
+- name: Ammo
+  description: Rang ammo or defence we have it!
+  icon:
 
 #
 # Core Features Right
@@ -256,24 +257,24 @@ core-features-left:
 core-features-right:
 
 # Feature
-- name: Branding
+- name: Firearms training
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-wine
+  icon:
 
 # Feature
-- name: Web Design
+- name: Build an AR15
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-monitor
+  icon:
 
 # Feature
-- name: Graphic Design
+- name: Service your firearm
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-crop
+  icon:
 
 # Feature
-- name: Photography
+- name: Gunsmith
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-camera
+  icon:
 
 
 #####################################
