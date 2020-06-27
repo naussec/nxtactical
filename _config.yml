@@ -61,13 +61,13 @@ headter-tagline: We Sale
 
 # Focus Buttons
 header-focus-button:
-  title: Shop Coming Soon
-  url: https://NX=nxtactical.com
+  title: Shop Now
+  url: #about
 
 # Secondary Buttons
 header-secondary-button:
-  title: Contact
-  url: http://nxtactical.com
+  title: Contact Us
+  url: #contact
 
 #
 # This is your email adress, contact from send here all emails from contact section
