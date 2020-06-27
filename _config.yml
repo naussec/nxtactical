@@ -50,12 +50,12 @@ headter-tagline: We Sale
 # Focus Buttons
 header-focus-button:
   title: Shop
-  url: section/#about
+  url: https://nxtactical.com/about.html
 
 # Secondary Buttons
 header-secondary-button:
   title: Contact Us
-  url: section/#contact
+  url: https://nxtactical.com/contact.html
 
 #
 # This is your email address, contact from send here all emails from contact section
@@ -72,7 +72,7 @@ banner-link: https://nxtactical.com/about.html
 ######  Global Social Links   ######
 ####################################
 youtube: '#'
-pinterest: '#'
+instagram: 'https://www.instagram.com/nxtactical/'
 facebook: '#'
 twitter: '#'
 google-plus: '#'
