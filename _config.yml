@@ -50,12 +50,12 @@ headter-tagline: We Sale
 # Focus Buttons
 header-focus-button:
   title: Shop
-  url: https://nxtactical.com/#about
+  url: https://nxtactical.com/index.html#about
 
 # Secondary Buttons
 header-secondary-button:
   title: Contact Us
-  url: https://nxtactical.com/#contact
+  url: https://nxtactical.com/index.html#contact
 
 #
 # This is your email address, contact from send here all emails from contact section
@@ -66,7 +66,7 @@ email: support@nxtactical.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-banner-link: https://nxtactical.com/#about
+banner-link: https://nxtactical.com/index.html#about
 
 ####################################
 ######  Global Social Links   ######
