@@ -162,18 +162,18 @@ portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex
 #
 # Portfolio Grid
 #
-portfolio-categories: [Websites, Logo, Graphic Design, Development, Video, Photography]
+portfolio-categories: [Aero, Rosco, Lowers, Uppers, Barrels, Ammo]
 portfolio:
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Websites, Graphic Design]
+- title: S<span class="thin">Aero Stripped M4E1 Lower FDE</span> Style
+  categories: [Aero, Lowers]
   image: img-01.jpg
   url: '#'
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Graphic Design, Logo, Websites]
+- title: S<span class="thin">Aero Stripped Upper Black</span> Style
+  categories: [Aero, Uppers]
   image: img-02.jpg
   url: '#'
 
