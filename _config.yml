@@ -216,17 +216,17 @@ core-features-left:
 
 # Feature
 - name: FFL Transfers
-  description: Need a controlled item? Send it our way.
+  description: 
   icon:
 
 # Feature
-- name: Firearms and Gear
-  description: Come check out our inventory or give us a call.
+- name: Firearms & Tactical Gear
+  description: 
   icon:
 
 # Feature
-- name: Firearms Parts
-  description: Building a firearm? We can help with the right parts.
+- name: Firearms Parts & Accessories
+  description: 
   icon:
 
 #
@@ -236,17 +236,17 @@ core-features-right:
 
 # Feature
 - name: Ammo
-  description: Rang ammo or defence we have it.
+  description: 
   icon:
 
 # Feature
 - name: Training
-  description: Gun Safety or learning to service your firearm.
+  description: 
   icon:
 
 # Feature
 - name: Gunsmith
-  description: Need some work done? We are trained and have the tools
+  description: 
   icon:
 
 
