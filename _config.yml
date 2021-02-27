@@ -223,11 +223,11 @@ portfolio:
 ##########  Featured Items ##########
 #####################################
 portfolio-title: Featured Items
-portfolio-description: Check out some of our featured items we have in stock.  You can sort by brand or type, if you see anything you like feel free to contact us.
+portfolio-description: Check out some of our featured items we have in stock.  You can sort by type, if you see anything you like feel free to contact us.
 
 # Featured Items Grid
 #
-portfolio-categories: [Aero, Rosco, PCM, Lowers, Uppers, Handguards, Barrels, Ammo, Pistol, Rifle, Tactical Gear]
+portfolio-categories: [Lowers, Uppers, Handguards, Barrels, Ammo, Pistol, Rifle, Tactical Gear]
 portfolio:
 
 # Item
