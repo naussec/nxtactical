@@ -219,6 +219,54 @@ portfolio:
   image: img-09.jpg
   url: '#'
 
+#####################################
+##########  Featured Items ##########
+#####################################
+portfolio-title: Featured Items
+portfolio-description: Check out some of our featured items we have in stock.  You can sort by brand or type, if you see anything you like feel free to contact us.
+
+# Featured Items Grid
+#
+portfolio-categories: [Aero, Rosco, PCM, Lowers, Uppers, Handguards, Barrels, Ammo, Pistol, Rifle, Tactical Gear]
+portfolio:
+
+# Item
+- title: <span class="thin">Aero Stripped M4E1 Lower FDE</span>
+  categories: [Aero, Lowers]
+  image: aero/m4e1-stripped-lower-receiver-fde.jpg
+  url: '#'
+
+# Item
+- title: <span class="thin">Aero Stripped Upper Black</span>
+  categories: [Aero, Uppers]
+  image: aero/m4e1-threaded-stripped-upper-receiver-black.jpg
+  url: '#'
+
+# Item
+- title: <span class="thin">Aero Stripped Upper FDE</span>
+  categories: [Aero, Uppers]
+  image: aero/m4e1-threaded-stripped-upper-receiver-fde.jpg
+  url: '#'
+
+# Item
+- title: <span class="thin">Aero 9in Handguard Black</span>
+  categories: [Aero, Handguards,]
+  image: aero/ar15-9-inch-r-one-m-lok-handguard-black-1.jpg
+  url: '#'
+
+# Item
+- title: <span class="thin">Rosco Barrels</span>
+  categories: [Rosco, Barrels,]
+  image: rosco/rosco-barrel-14-5.jpg
+  url: '#'
+
+# Item
+- title: <span class="thin">PCM 223 Bronze 55g</span>
+  categories: [PCM, Ammo,]
+  image: ammo/pcm-223-ammo.jpg
+  url: '#'
+
+
 
 #####################################
 ##########  Core Features  ##########
